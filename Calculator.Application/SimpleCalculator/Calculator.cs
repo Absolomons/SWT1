@@ -38,6 +38,18 @@ public class Calculator
         Accumulator = 0;
     }
 
+    public double Divide(double dividend, double divisor)
+    {
+        if (divisor == 0)
+        {
+            throw new Exception();
+        }
+        else
+        {
+            return dividend / divisor;
+        }
+    }
+
     public void Printfunny()
     {
         Console.WriteLine("What did chicken cross?\n THe ROADS HAHAH");

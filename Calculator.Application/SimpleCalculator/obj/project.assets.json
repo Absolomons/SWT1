@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ander\\.nuget\\packages\\": {}
+    "C:\\Users\\caspe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ander\\source\\repos\\Absolomons\\SWT1\\Calculator.Application\\SimpleCalculator\\SimpleCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\caspe\\Source\\Repos\\SWT1\\Calculator.Application\\SimpleCalculator\\SimpleCalculator.csproj",
       "projectName": "SimpleCalculator",
-      "projectPath": "C:\\Users\\ander\\source\\repos\\Absolomons\\SWT1\\Calculator.Application\\SimpleCalculator\\SimpleCalculator.csproj",
-      "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ander\\source\\repos\\Absolomons\\SWT1\\Calculator.Application\\SimpleCalculator\\obj\\",
+      "projectPath": "C:\\Users\\caspe\\Source\\Repos\\SWT1\\Calculator.Application\\SimpleCalculator\\SimpleCalculator.csproj",
+      "packagesPath": "C:\\Users\\caspe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\caspe\\Source\\Repos\\SWT1\\Calculator.Application\\SimpleCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\caspe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
