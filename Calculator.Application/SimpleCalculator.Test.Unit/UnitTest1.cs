@@ -52,6 +52,15 @@ namespace SimpleCalculator.Test.Unit
             //Assert
             Assert.That(result, Is.EqualTo(10));
         }
+        [Test]
+        public void Divide_Two_PosDecNumvers_ResultIsDivided()
+        {
+            //Act
+            var result = uut.Divide(4, 2);
+
+            //Assert
+            Assert.That(result, Is.EqualTo(2));
+        }
 
         [Test]
         public void Accumulator_CheckTheAccumulatorAfterAdd_AccumulatorIsResult()
