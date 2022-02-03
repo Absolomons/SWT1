@@ -52,5 +52,22 @@ namespace SimpleCalculator.Test.Unit
             //Assert
             Assert.That(result, Is.EqualTo(10));
         }
+
+        [Test]
+        public void Accumulator_CheckTheAccumulatorAfterAdd_AccumulatorIsResult()
+        {
+            var resultAdd = uut.Add(10, 7);
+
+            Assert.That(uut.Accumulator, Is.EqualTo(resultAdd));
+        }
+
+        [Test]
+        public void Clear_ClearTheAccumulatorAfterMultiply_AccumulatorIsZero()
+        {
+            var resultMultiply = uut.Multiply(5, 7);
+            uut.Clear();
+
+            Assert.That(uut.Accumulator, Is.EqualTo(0));
+        }
     }
 }
