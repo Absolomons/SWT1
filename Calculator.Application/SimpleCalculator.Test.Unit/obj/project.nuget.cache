@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kl+HqH8O3pOz1KmCqfPJSmTdQ8QXDkQK1dWBMazqABCIZJ67v7ciD/UPCTGl+fw1Wum4oBLzo14aup+LBlmiiQ==",
+  "dgSpecHash": "Pkdp/OVSr5szrKWGpuVLxz43wp5UGONSWOYeW4ZySW3PyemvgpQ33KeQ9l61/YAVSDKNHOW+a2XzSnjAMMRPTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ander\\source\\repos\\Absolomons\\VisualStudio\\SWT\\Calculator.Application\\SimpleCalculator.Test.Unit\\SimpleCalculator.Test.Unit.csproj",
+  "projectFilePath": "C:\\Users\\ander\\source\\repos\\Absolomons\\SWT1\\Calculator.Application\\SimpleCalculator.Test.Unit\\SimpleCalculator.Test.Unit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ander\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\microsoft.codecoverage\\17.0.0\\microsoft.codecoverage.17.0.0.nupkg.sha512",
@@ -51,12 +51,5 @@
     "C:\\Users\\ander\\.nuget\\packages\\system.xml.readerwriter\\4.0.11\\system.xml.readerwriter.4.0.11.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\ander\\source\\repos\\Absolomons\\VisualStudio\\SWT\\Calculator.Application\\SimpleCalculator.Test.Unit\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

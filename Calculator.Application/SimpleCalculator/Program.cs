@@ -83,6 +83,9 @@
             {
                 Console.WriteLine("Power med negativ returnerer forkert");
             }
+
+            calc.Printfunny();
+
         }
     }
 }

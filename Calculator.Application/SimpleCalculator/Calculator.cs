@@ -27,4 +27,8 @@ public class Calculator
         return Math.Pow(x, exp);
     }
 
+    public void Printfunny()
+    {
+        Console.WriteLine("What did chicken cross?\n THe ROADS HAHAH");
+    }
 }

@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vC1z2eobogoBEH7cPQWkeOGwvFCN85qSI2VZPp6pN2cabtdA2CVd5jjeneaDXbCN+Lp9VGAEn//NB/RGjypDbA==",
+  "dgSpecHash": "64aKwRZ3PosMppr74t+67R8b7PnbP2WPuUsue0onk6jn5h172JBf0t0ZGPDFbphuWgG0LDfpehv8/SvK9DyA8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ander\\source\\repos\\Absolomons\\VisualStudio\\SWT\\Calculator.Application\\SimpleCalculator\\SimpleCalculator.csproj",
+  "projectFilePath": "C:\\Users\\ander\\source\\repos\\Absolomons\\SWT1\\Calculator.Application\\SimpleCalculator\\SimpleCalculator.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\ander\\source\\repos\\Absolomons\\VisualStudio\\SWT\\Calculator.Application\\SimpleCalculator\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
