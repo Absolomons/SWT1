@@ -38,4 +38,8 @@ public class Calculator
         Accumulator = 0;
     }
 
+    public void Printfunny()
+    {
+        Console.WriteLine("What did chicken cross?\n THe ROADS HAHAH");
+    }
 }
