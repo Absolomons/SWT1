@@ -64,13 +64,13 @@ namespace SimpleCalculator.Test.Unit
         }
 
         [Test]
-        public void Subtract_TwoNegDecNumbers_ResultIsNegativeSum()
+        public void Subtract_TwoNegDecNumbers_ResultIsNegativeDifference()
         {
             //Act
             var result = uut.Subtract(-21.5, -3.43);
 
             //Assert
-            Assert.That(result, Is.EqualTo(-24.93));
+            Assert.That(result, Is.EqualTo(-18.07));
         }
 
         [Test]
@@ -103,7 +103,7 @@ namespace SimpleCalculator.Test.Unit
             Assert.That(result, Is.Negative);
         }
         [Test]
-        public void Divide_Two_PosDecNumvers_ResultIsDivided()
+        public void Divide_Two_PosDecNumbers_ResultIsDivided()
         {
             //Act
             var result = uut.Divide(4, 2);
