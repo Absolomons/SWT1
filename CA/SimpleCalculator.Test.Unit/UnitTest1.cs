@@ -128,5 +128,23 @@ namespace SimpleCalculator.Test.Unit
 
             Assert.That(uut.Accumulator, Is.EqualTo(0));
         }
+
+        [Test]
+        public void Clear_ClearTheAccumulatorAfterNegativResult_AccumulatorIsZero()
+        {
+            var resultMultiply = uut.Multiply(-5, 5);
+            uut.Clear();
+
+            Assert.That(uut.Accumulator, Is.EqualTo(0));
+        }
+
+        [Test]
+        public void Clear_ClearTheAccumulatorEvenIfItIsAlreadyCleared_AccumulatorIsZero()
+        {
+            uut.Clear();
+            uut.Clear();
+
+            Assert.That(uut.Accumulator, Is.EqualTo(0));
+        }
     }
 }
