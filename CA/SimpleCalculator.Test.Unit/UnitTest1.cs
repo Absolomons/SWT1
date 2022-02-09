@@ -62,6 +62,26 @@ namespace SimpleCalculator.Test.Unit
             //Assert
             Assert.That(result, Is.EqualTo(10));
         }
+
+        [Test]
+        public void Multiply_TwoNegDecNumbers_ResultIsPos()
+        {
+            //Act
+            var result = uut.Multiply(-2, -5);
+
+            //Assert
+            Assert.That(result, Is.Positive);
+        }
+
+        [Test]
+        public void Multiply_OneNegOnePos_ResultIsNeg()
+        {
+            //Act
+            var result = uut.Multiply(2, 5);
+
+            //Assert
+            Assert.That(result, Is.Negative);
+        }
         [Test]
         public void Divide_Two_PosDecNumvers_ResultIsDivided()
         {
