@@ -85,7 +85,7 @@
             }
 
             calc.Printfunny();
-
+            // Her er lige en kommantar til at teste om de også kommer med :)
         }
     }
 }
