@@ -34,7 +34,7 @@ namespace SimpleCalculator.Test.Unit
         }
 
         [Test]
-        public void Add_OnePosOneNegDecNumbers_ResultIsNegativeSum()
+        public void Add_TwoNegDecNumbers_ResultIsNegativeSum()
         {
             //Act
             var result = uut.Add(-3.43, -21.5);
@@ -44,13 +44,33 @@ namespace SimpleCalculator.Test.Unit
         }
 
         [Test]
-        public void Subtract_TwoPosDecNumbers_ResultIsNegative()
+        public void Subtract_TwoPosDecNumbers_ResultIsDifference()
         {
             //Act
             var result = uut.Subtract(21.5, 3.43);
 
             //Assert
             Assert.That(result, Is.EqualTo(18.07));
+        }
+
+        [Test]
+        public void Subtract_OnePosOneNegDecNumbers_ResultIsSum()
+        {
+            //Act
+            var result = uut.Subtract(21.5, -3.43);
+
+            //Assert
+            Assert.That(result, Is.EqualTo(24.93));
+        }
+
+        [Test]
+        public void Subtract_TwoNegDecNumbers_ResultIsNegativeSum()
+        {
+            //Act
+            var result = uut.Subtract(-21.5, -3.43);
+
+            //Assert
+            Assert.That(result, Is.EqualTo(-24.93));
         }
 
         [Test]
