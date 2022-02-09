@@ -97,7 +97,7 @@ namespace SimpleCalculator.Test.Unit
         public void Multiply_OneNegOnePos_ResultIsNeg()
         {
             //Act
-            var result = uut.Multiply(2, 5);
+            var result = uut.Multiply(-2, 5);
 
             //Assert
             Assert.That(result, Is.Negative);
