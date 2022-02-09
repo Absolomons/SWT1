@@ -11,14 +11,15 @@
           "Microsoft.NET.Test.Sdk": "17.0.0",
           "NUnit": "3.13.2",
           "NUnit3TestAdapter": "4.2.1",
+          "NunitXml.TestLogger": "3.0.117",
           "SimpleCalculator": "1.0.0",
-          "coverlet.collector": "3.1.0"
+          "coverlet.collector": "3.1.2"
         },
         "runtime": {
           "SimpleCalculator.Test.Unit.dll": {}
         }
       },
-      "coverlet.collector/3.1.0": {},
+      "coverlet.collector/3.1.2": {},
       "Microsoft.CodeCoverage/17.0.0": {
         "runtime": {
           "lib/netcoreapp1.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll": {
@@ -359,6 +360,7 @@
         }
       },
       "NUnit3TestAdapter/4.2.1": {},
+      "NunitXml.TestLogger/3.0.117": {},
       "System.Collections/4.0.11": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0",
@@ -664,12 +666,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "coverlet.collector/3.1.0": {
+    "coverlet.collector/3.1.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-YzYqSRrjoP5lULBhTDcTOjuM4IDPPi6PhFsl4w8EI4WdZhE6llt7E38Tg4CHyrS+QKwyu1+9OwkdDgluOdoBTw==",
-      "path": "coverlet.collector/3.1.0",
-      "hashPath": "coverlet.collector.3.1.0.nupkg.sha512"
+      "sha512": "sha512-wuLDIDKD5XMt0A7lE31JPenT7QQwZPFkP5rRpdJeblyXZ9MGLI8rYjvm5fvAKln+2/X+4IxxQDxBtwdrqKNLZw==",
+      "path": "coverlet.collector/3.1.2",
+      "hashPath": "coverlet.collector.3.1.2.nupkg.sha512"
     },
     "Microsoft.CodeCoverage/17.0.0": {
       "type": "package",
@@ -754,6 +756,13 @@
       "sha512": "sha512-kgH8VKsrcZZgNGQXRpVCrM7TnNz9li3b/snH+YmnXUNqsaWa1Xw9EQWHpbzq4Li2FbTjTE/E5N5HdLNXzZ8BpQ==",
       "path": "nunit3testadapter/4.2.1",
       "hashPath": "nunit3testadapter.4.2.1.nupkg.sha512"
+    },
+    "NunitXml.TestLogger/3.0.117": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+AEoIB71gu6R2QXzAs68MLlceLgo0T9hcL8yWGUi+UzozsDMIjHGKhqDqgCFwtO8UcXAJBaFNkK9o0gtFaLTSw==",
+      "path": "nunitxml.testlogger/3.0.117",
+      "hashPath": "nunitxml.testlogger.3.0.117.nupkg.sha512"
     },
     "System.Collections/4.0.11": {
       "type": "package",

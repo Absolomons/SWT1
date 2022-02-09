@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Calculator.Application",
+    "\\Calculator.Application\\SimpleCalculator.Test.Unit"
   ],
-  "SelectedNode": "\\HelloWorld",
+  "SelectedNode": "\\Calculator.Application\\SimpleCalculator.Test.Unit\\UnitTest1.cs",
   "PreviewInSolutionExplorer": false
 }

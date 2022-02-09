@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Pkdp/OVSr5szrKWGpuVLxz43wp5UGONSWOYeW4ZySW3PyemvgpQ33KeQ9l61/YAVSDKNHOW+a2XzSnjAMMRPTA==",
+  "dgSpecHash": "P0r+hBatiu5ZIBUiHTRXqfDe4aEvCyVD30+VgF/yGcOOlN/FlwGpyUT0n3vvDd3EKGmqHNKmcKwGMG3afrntrw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ander\\source\\repos\\Absolomons\\SWT1\\Calculator.Application\\SimpleCalculator.Test.Unit\\SimpleCalculator.Test.Unit.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ander\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
+    "C:\\Users\\ander\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\microsoft.codecoverage\\17.0.0\\microsoft.codecoverage.17.0.0.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\microsoft.net.test.sdk\\17.0.0\\microsoft.net.test.sdk.17.0.0.nupkg.sha512",
@@ -17,6 +17,7 @@
     "C:\\Users\\ander\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
+    "C:\\Users\\ander\\.nuget\\packages\\nunitxml.testlogger\\3.0.117\\nunitxml.testlogger.3.0.117.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\system.collections\\4.0.11\\system.collections.4.0.11.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\system.diagnostics.debug\\4.0.11\\system.diagnostics.debug.4.0.11.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\system.diagnostics.tools\\4.0.1\\system.diagnostics.tools.4.0.1.nupkg.sha512",
