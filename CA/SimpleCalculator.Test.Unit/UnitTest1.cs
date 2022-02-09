@@ -34,7 +34,7 @@ namespace SimpleCalculator.Test.Unit
         }
 
         [Test]
-        public void Add_OnePosOneNegDecNumbers_ResultIsNegativeSum()
+        public void Add_TwoNegDecNumbers_ResultIsNegativeSum()
         {
             //Act
             var result = uut.Add(-3.43, -21.5);
@@ -44,13 +44,33 @@ namespace SimpleCalculator.Test.Unit
         }
 
         [Test]
-        public void Subtract_TwoPosDecNumbers_ResultIsNegative()
+        public void Subtract_TwoPosDecNumbers_ResultIsDifference()
         {
             //Act
             var result = uut.Subtract(21.5, 3.43);
 
             //Assert
             Assert.That(result, Is.EqualTo(18.07));
+        }
+
+        [Test]
+        public void Subtract_OnePosOneNegDecNumbers_ResultIsSum()
+        {
+            //Act
+            var result = uut.Subtract(21.5, -3.43);
+
+            //Assert
+            Assert.That(result, Is.EqualTo(24.93));
+        }
+
+        [Test]
+        public void Subtract_TwoNegDecNumbers_ResultIsNegativeSum()
+        {
+            //Act
+            var result = uut.Subtract(-21.5, -3.43);
+
+            //Assert
+            Assert.That(result, Is.EqualTo(-24.93));
         }
 
         [Test]
@@ -83,7 +103,7 @@ namespace SimpleCalculator.Test.Unit
             Assert.That(result, Is.Negative);
         }
         [Test]
-        public void Divide_Two_PosDecNumvers_ResultIsDivided()
+        public void Divide_TwoPosDecNumbers_ResultIsDivided()
         {
             //Act
             var result = uut.Divide(4, 2);
@@ -91,6 +111,27 @@ namespace SimpleCalculator.Test.Unit
             //Assert
             Assert.That(result, Is.EqualTo(2));
         }
+
+        [Test]
+        public void Divide_PosWithNegNumbers_ResultIsDivided()
+        {
+            //Act
+            var result = uut.Divide(6, -2);
+
+            //Assert
+            Assert.That(result, Is.EqualTo(-3));
+        }
+
+        [Test]
+        public void Divide_NegWithNegNumber_ResultIsDivided()
+        {
+            //Act
+            var result = uut.Divide(-4, -2);
+
+            //Assert
+            Assert.That(result, Is.EqualTo(2));
+        }
+
 
         [Test]
         public void Accumulator_CheckTheAccumulatorAfterAdd_AccumulatorIsResult()
