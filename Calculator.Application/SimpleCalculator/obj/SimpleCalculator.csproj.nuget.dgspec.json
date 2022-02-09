@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ander\\source\\repos\\Absolomons\\SWT1\\Calculator.Application\\SimpleCalculator\\SimpleCalculator.csproj": {}
+    "C:\\Users\\jackg\\OneDrive - Aarhus Universitet\\SW_AU\\4_Semester\\SWT\\SWT_Ex1\\Calculator.Application\\SimpleCalculator\\SimpleCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ander\\source\\repos\\Absolomons\\SWT1\\Calculator.Application\\SimpleCalculator\\SimpleCalculator.csproj": {
+    "C:\\Users\\jackg\\OneDrive - Aarhus Universitet\\SW_AU\\4_Semester\\SWT\\SWT_Ex1\\Calculator.Application\\SimpleCalculator\\SimpleCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ander\\source\\repos\\Absolomons\\SWT1\\Calculator.Application\\SimpleCalculator\\SimpleCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\jackg\\OneDrive - Aarhus Universitet\\SW_AU\\4_Semester\\SWT\\SWT_Ex1\\Calculator.Application\\SimpleCalculator\\SimpleCalculator.csproj",
         "projectName": "SimpleCalculator",
-        "projectPath": "C:\\Users\\ander\\source\\repos\\Absolomons\\SWT1\\Calculator.Application\\SimpleCalculator\\SimpleCalculator.csproj",
-        "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ander\\source\\repos\\Absolomons\\SWT1\\Calculator.Application\\SimpleCalculator\\obj\\",
+        "projectPath": "C:\\Users\\jackg\\OneDrive - Aarhus Universitet\\SW_AU\\4_Semester\\SWT\\SWT_Ex1\\Calculator.Application\\SimpleCalculator\\SimpleCalculator.csproj",
+        "packagesPath": "C:\\Users\\jackg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jackg\\OneDrive - Aarhus Universitet\\SW_AU\\4_Semester\\SWT\\SWT_Ex1\\Calculator.Application\\SimpleCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jackg\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

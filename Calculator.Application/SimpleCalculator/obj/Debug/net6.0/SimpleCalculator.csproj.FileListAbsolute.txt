@@ -58,3 +58,18 @@ C:\Users\ander\source\repos\Absolomons\SWT1\Calculator.Application\SimpleCalcula
 C:\Users\ander\source\repos\Absolomons\SWT1\Calculator.Application\SimpleCalculator\obj\Debug\net6.0\ref\SimpleCalculator.dll
 C:\Users\ander\source\repos\Absolomons\SWT1\Calculator.Application\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.pdb
 C:\Users\ander\source\repos\Absolomons\SWT1\Calculator.Application\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.genruntimeconfig.cache
+C:\Users\jackg\OneDrive - Aarhus Universitet\SW_AU\4_Semester\SWT\SWT_Ex1\Calculator.Application\SimpleCalculator\bin\Debug\net6.0\SimpleCalculator.exe
+C:\Users\jackg\OneDrive - Aarhus Universitet\SW_AU\4_Semester\SWT\SWT_Ex1\Calculator.Application\SimpleCalculator\bin\Debug\net6.0\SimpleCalculator.deps.json
+C:\Users\jackg\OneDrive - Aarhus Universitet\SW_AU\4_Semester\SWT\SWT_Ex1\Calculator.Application\SimpleCalculator\bin\Debug\net6.0\SimpleCalculator.runtimeconfig.json
+C:\Users\jackg\OneDrive - Aarhus Universitet\SW_AU\4_Semester\SWT\SWT_Ex1\Calculator.Application\SimpleCalculator\bin\Debug\net6.0\SimpleCalculator.dll
+C:\Users\jackg\OneDrive - Aarhus Universitet\SW_AU\4_Semester\SWT\SWT_Ex1\Calculator.Application\SimpleCalculator\bin\Debug\net6.0\ref\SimpleCalculator.dll
+C:\Users\jackg\OneDrive - Aarhus Universitet\SW_AU\4_Semester\SWT\SWT_Ex1\Calculator.Application\SimpleCalculator\bin\Debug\net6.0\SimpleCalculator.pdb
+C:\Users\jackg\OneDrive - Aarhus Universitet\SW_AU\4_Semester\SWT\SWT_Ex1\Calculator.Application\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\jackg\OneDrive - Aarhus Universitet\SW_AU\4_Semester\SWT\SWT_Ex1\Calculator.Application\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackg\OneDrive - Aarhus Universitet\SW_AU\4_Semester\SWT\SWT_Ex1\Calculator.Application\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\jackg\OneDrive - Aarhus Universitet\SW_AU\4_Semester\SWT\SWT_Ex1\Calculator.Application\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.AssemblyInfo.cs
+C:\Users\jackg\OneDrive - Aarhus Universitet\SW_AU\4_Semester\SWT\SWT_Ex1\Calculator.Application\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\jackg\OneDrive - Aarhus Universitet\SW_AU\4_Semester\SWT\SWT_Ex1\Calculator.Application\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.dll
+C:\Users\jackg\OneDrive - Aarhus Universitet\SW_AU\4_Semester\SWT\SWT_Ex1\Calculator.Application\SimpleCalculator\obj\Debug\net6.0\ref\SimpleCalculator.dll
+C:\Users\jackg\OneDrive - Aarhus Universitet\SW_AU\4_Semester\SWT\SWT_Ex1\Calculator.Application\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.pdb
+C:\Users\jackg\OneDrive - Aarhus Universitet\SW_AU\4_Semester\SWT\SWT_Ex1\Calculator.Application\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.genruntimeconfig.cache

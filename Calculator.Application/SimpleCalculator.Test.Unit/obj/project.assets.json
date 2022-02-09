@@ -3895,19 +3895,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ander\\.nuget\\packages\\": {}
+    "C:\\Users\\jackg\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ander\\source\\repos\\Absolomons\\SWT1\\Calculator.Application\\SimpleCalculator.Test.Unit\\SimpleCalculator.Test.Unit.csproj",
+      "projectUniqueName": "C:\\Users\\jackg\\OneDrive - Aarhus Universitet\\SW_AU\\4_Semester\\SWT\\SWT_Ex1\\Calculator.Application\\SimpleCalculator.Test.Unit\\SimpleCalculator.Test.Unit.csproj",
       "projectName": "SimpleCalculator.Test.Unit",
-      "projectPath": "C:\\Users\\ander\\source\\repos\\Absolomons\\SWT1\\Calculator.Application\\SimpleCalculator.Test.Unit\\SimpleCalculator.Test.Unit.csproj",
-      "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ander\\source\\repos\\Absolomons\\SWT1\\Calculator.Application\\SimpleCalculator.Test.Unit\\obj\\",
+      "projectPath": "C:\\Users\\jackg\\OneDrive - Aarhus Universitet\\SW_AU\\4_Semester\\SWT\\SWT_Ex1\\Calculator.Application\\SimpleCalculator.Test.Unit\\SimpleCalculator.Test.Unit.csproj",
+      "packagesPath": "C:\\Users\\jackg\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jackg\\OneDrive - Aarhus Universitet\\SW_AU\\4_Semester\\SWT\\SWT_Ex1\\Calculator.Application\\SimpleCalculator.Test.Unit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jackg\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3921,8 +3921,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\ander\\source\\repos\\Absolomons\\SWT1\\Calculator.Application\\SimpleCalculator\\SimpleCalculator.csproj": {
-              "projectPath": "C:\\Users\\ander\\source\\repos\\Absolomons\\SWT1\\Calculator.Application\\SimpleCalculator\\SimpleCalculator.csproj"
+            "C:\\Users\\jackg\\OneDrive - Aarhus Universitet\\SW_AU\\4_Semester\\SWT\\SWT_Ex1\\Calculator.Application\\SimpleCalculator\\SimpleCalculator.csproj": {
+              "projectPath": "C:\\Users\\jackg\\OneDrive - Aarhus Universitet\\SW_AU\\4_Semester\\SWT\\SWT_Ex1\\Calculator.Application\\SimpleCalculator\\SimpleCalculator.csproj"
             }
           }
         }
