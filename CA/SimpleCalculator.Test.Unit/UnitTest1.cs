@@ -63,7 +63,7 @@ namespace SimpleCalculator.Test.Unit
             Assert.That(result, Is.EqualTo(10));
         }
         [Test]
-        public void Divide_Two_PosDecNumvers_ResultIsDivided()
+        public void Divide_TwoPosDecNumbers_ResultIsDivided()
         {
             //Act
             var result = uut.Divide(4, 2);
@@ -71,6 +71,27 @@ namespace SimpleCalculator.Test.Unit
             //Assert
             Assert.That(result, Is.EqualTo(2));
         }
+
+        [Test]
+        public void Divide_PosWithNegNumbers_ResultIsDivided()
+        {
+            //Act
+            var result = uut.Divide(6, -2);
+
+            //Assert
+            Assert.That(result, Is.EqualTo(-3));
+        }
+
+        [Test]
+        public void Divide_NegWithNegNumber_ResultIsDivided()
+        {
+            //Act
+            var result = uut.Divide(-4, -2);
+
+            //Assert
+            Assert.That(result, Is.EqualTo(2));
+        }
+
 
         [Test]
         public void Accumulator_CheckTheAccumulatorAfterAdd_AccumulatorIsResult()
