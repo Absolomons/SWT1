@@ -1,3 +1,4 @@
+using System;
 using NUnit.Framework;
 
 namespace SimpleCalculator.Test.Unit
@@ -129,6 +130,13 @@ namespace SimpleCalculator.Test.Unit
 
             //Assert
             Assert.That(result, Is.EqualTo(2));
+        }
+
+        [Test]
+        public void Divide_DivisorIsZero_DivideByZeroExceptionThrown()
+        {
+            //Act and Assert
+            Assert.That(() => uut.Divide(5, 0), Throws.TypeOf<DivideByZeroException>());
         }
 
 

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -42,16 +43,11 @@ public class Calculator
     {
         if (divisor == 0)
         {
-            throw new Exception();
+            throw new DivideByZeroException();
         }
         else
         {
             return dividend / divisor;
         }
-    }
-
-    public void Printfunny()
-    {
-        Console.WriteLine("What did chicken cross?\n THe ROADS HAHAH");
     }
 }
