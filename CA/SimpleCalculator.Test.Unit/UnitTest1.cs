@@ -139,7 +139,6 @@ namespace SimpleCalculator.Test.Unit
             Assert.That(() => uut.Divide(5, 0), Throws.TypeOf<DivideByZeroException>());
         }
 
-
         [Test]
         public void Accumulator_CheckTheAccumulatorAfterAdd_AccumulatorIsResult()
         {
