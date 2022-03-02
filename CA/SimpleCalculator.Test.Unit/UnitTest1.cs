@@ -173,5 +173,12 @@ namespace SimpleCalculator.Test.Unit
 
             Assert.That(uut.Accumulator, Is.EqualTo(0));
         }
+
+        [Test]
+        public void Power_PowerOf2_ResultIs4()
+        {
+            uut.Power(2, 2);
+            Assert.That(uut.Accumulator, Is.EqualTo(4));
+        }
     }
 }
